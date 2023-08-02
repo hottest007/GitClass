@@ -1,1 +1,3 @@
 my first created git bash file
+
+file 1 is now being updated
