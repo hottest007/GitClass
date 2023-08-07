@@ -1,0 +1,9 @@
+create a github repo for an article
+ensure it contains a readme.text
+then pull the repo to your local repo
+create an article file
+add and commit the first file
+then create two more article files
+modify the first
+add and commit all the files
+create a branch
